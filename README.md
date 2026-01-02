@@ -6,16 +6,16 @@ Me gusta crear aplicaciones funcionales, limpias y bien estructuradas.
 
 ---
 
-## 🚀 Tecnologías que uso
+## Tecnologías que uso
 
-### 🧠 Lenguajes
+### Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 
-### 🛠 Frameworks & Tools
+### Frameworks & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
@@ -24,25 +24,13 @@ Me gusta crear aplicaciones funcionales, limpias y bien estructuradas.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jepcec&show_icons=true)
-
----
-
-## 🔥 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jepcec&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Actividad reciente
+## Actividad reciente
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jepcec&theme=github)
 
 ---
 
-## 🤝 Conectemos
+## Conectemos
 
 ✉️ Si quieres colaborar en proyectos, estaré encantado 🙂
 
