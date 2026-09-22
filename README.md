@@ -80,10 +80,6 @@
 
 <br/><br/>
 
-<div align="left">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=48&width=360&text=Github%20actividad&fontSize=22&fontColor=F2F2F2&fontAlignY=50&v=3" alt="GITHUB" />
-</div>
-
 <br/>
 
 <br/><br/>
