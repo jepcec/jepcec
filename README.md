@@ -88,11 +88,10 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jepcec&theme=github&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=jepcec&theme=dark&background=transparent&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakNum=ffffff&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=30363d" alt="GitHub Streak" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jepcec&theme=github-dark&hide_border=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
