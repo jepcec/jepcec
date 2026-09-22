@@ -86,15 +86,6 @@
 
 <br/>
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jepcec&theme=github-dark&hide_border=true"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
 <br/><br/>
 
 <div align="left">
